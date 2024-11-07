@@ -663,7 +663,7 @@ video {
 body {
   box-sizing: border-box;
   background-color: #7C93C3;
-  background-image: url('./img/snow.gif');
+  background-image: url('/img/snow.gif');
   background-blend-mode: lighten;
   text-shadow: 2px 1px rgb(153, 150, 150);
 }
