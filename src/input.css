@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headline {
+    background-color: #60afc9b6;
+    text-shadow: 1px 1px rgb(121, 120, 120);
+}
+.a {
+    text-decoration-thickness: 0.5px;
+}
+
+#home {
+    background-color: #b9e5e890;
+    text-shadow: 1px 1px rgb(153, 150, 150);
+    background-image: url('/img/snow.gif');
+    background-blend-mode: multiply;
+}
