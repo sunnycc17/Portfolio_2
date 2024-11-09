@@ -14,6 +14,7 @@ body {
     background-image: url('/img/snow.gif');
     background-blend-mode: lighten;
     text-shadow: 2px 1px rgb(153, 150, 150);
+    color: white;
 }
 
 .headline {
@@ -28,5 +29,7 @@ hr  {
 }
 
 #projects {
-    background-color: #1E2A5E;
+    background-color: #1e2a5e3f;
+    width: 900px;
+    height: 1100px;
 }
