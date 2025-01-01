@@ -30,8 +30,6 @@ hr  {
 
 #projects {
     background-color: #1e2a5e3f;
-    width: 900px;
-    height: 1100px;
 }
 
 #projects h2 {
@@ -44,6 +42,6 @@ hr  {
     border-radius: 9px;
 }
 
-.img1 {
-    border-radius: 5px;
+.box img {
+    border-radius: 9px;
 }
